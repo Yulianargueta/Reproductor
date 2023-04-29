@@ -1,0 +1,16 @@
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\bin\Debug\proyectoparcial.exe.config
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\bin\Debug\proyectoparcial.exe
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\bin\Debug\proyectoparcial.pdb
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.csproj.AssemblyReference.cache
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.Form1.resources
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.Properties.Resources.resources
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.csproj.GenerateResource.cache
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.csproj.CoreCompileInputs.cache
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.exe
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.pdb
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC-ELHID\source\repos\proyectoparcial\proyectoparcial\obj\Debug\proyectoparcial.csproj.ResolveComReference.cache
